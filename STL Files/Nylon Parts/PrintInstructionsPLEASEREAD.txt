@@ -1,0 +1,1 @@
+All parts should be printed in Taulman Alloy 910 at high temps, lower speeds, and fully solid with all walls at .12mm layer height. The only exceptions are the spacers which can be printed in Alloy 910 with 2 perimeters and 15% infill. 
