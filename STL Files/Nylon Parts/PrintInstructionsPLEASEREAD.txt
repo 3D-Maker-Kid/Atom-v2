@@ -1,1 +1,7 @@
-All parts should be printed in Taulman Alloy 910 at high temps, lower speeds, and fully solid with all walls at .12mm layer height. The only exceptions are the spacers which can be printed in Alloy 910 with 2 perimeters and 15% infill. 
+All parts should be printed in Taulman Alloy 910 at high temps, lower speeds, and fully solid with all walls at .12mm layer height. The only exceptions are the spacers which can be printed in Alloy 910 with 2 perimeters and 15% infill.
+
+Quantities:
+6x wheel guard (left and right are duplicates, will fix in later commit)
+6x drive gears (left and right are duplicates, will fix in later commit)
+3x right wedge mount
+3x left edge mount
